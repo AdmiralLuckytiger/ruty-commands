@@ -1,4 +1,4 @@
-#__RUSTY COMMANDS__
+# __RUSTY COMMANDS__
 
 <p align="center">
     <img width="108" height="108" src="./images/RsutyLogo.svg">
